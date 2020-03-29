@@ -22,9 +22,9 @@ $ node index.js --shift <number> --action <encode || decode> [--input <path to i
 Options:
 
 - -s, --shift: a shift **(requered option)**
-- -i, --input: an input file **(requered option)**
+- -a, --action: an action encode/decode **(default decode)**
+- -i, --input: an input file
 - -o, --output: an output file
-- -a, --action: an action encode/decode
 
 ### Demo
 
