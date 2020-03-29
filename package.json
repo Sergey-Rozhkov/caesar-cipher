@@ -1,0 +1,22 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "Caesar cipher CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey-Rozhkov/caesar-cipher.git"
+  },
+  "author": "Sergey Rozhkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey-Rozhkov/caesar-cipher/issues"
+  },
+  "homepage": "https://github.com/Sergey-Rozhkov/caesar-cipher#readme",
+  "dependencies": {
+    "commander": "^5.0.0"
+  }
+}
